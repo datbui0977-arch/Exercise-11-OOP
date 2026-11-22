@@ -1,0 +1,7 @@
+@"
+bin/
+obj/
+.vs/
+.vscode/
+.lab w11-pattern.pdf
+"@ | Set-Content .gitignore
